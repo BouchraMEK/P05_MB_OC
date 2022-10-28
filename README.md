@@ -45,7 +45,7 @@ Juan, de l’équipe Marketing
 _______________________________________________________________________________________________________________________________________________________________________
 
 
-#Compétences évaluées
+# Compétences évaluées
 
 - Adapter les hyperparamètres d'un algorithme non supervisé afin de l'améliorer
 - Évaluer les performances d’un modèle d'apprentissage non supervisé
